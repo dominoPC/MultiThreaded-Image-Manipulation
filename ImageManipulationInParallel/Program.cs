@@ -1,4 +1,10 @@
 ﻿/*
+ * Joseph Tankersley tankerjh@mail.uc.edu
+ * Contemporary Programming Fall 2021
+ * Assignment 13
+ * 30 November 2021
+ * Removes all red from an image in two different ways to demonstrate serial vs parallel processing
+ * Modified from code written by:
  * Bill Nicholson
  * nicholdw@ucmail.uc.edu
  * https://docs.microsoft.com/en-us/dotnet/api/system.drawing.image.fromfile?view=dotnet-plat-ext-3.1
